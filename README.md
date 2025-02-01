@@ -8,13 +8,16 @@
 
 ## Work Experience
 
-**Automation Engineer**  
-**Sony Technology Thailand** (_June 2022 - January 2024_)  
-- Designed **jigs** and **fixtures**, **machine systems**, **control boxes**, and **robot programming** in the **New Technology & System Development** department.
+**Automation Engineer @ Sony Technology Thailand** (_June 2022 - January 2024_)
+- Designed jigs and fixtures, machine systems, control boxes, and robot programming in the New Technology & System Development department.
 
-**Intern**  
-**ANT Robotics** (_August 2021 - January 2022_)  
-- Contributed to the design of **automation systems** and **robotic solutions** for the automation department.
+**Intern @ ANT Robotics** (_August 2021 - January 2022_) 
+- Contributed to the design of automation systems and robotic solutions for the automation department.
 
 ## Projects 
 - [**Vamprye: Twilight Bakery**](https://kanomwan.itch.io/vamprye) : A time-management storytelling game developed using Godot and pixel art.
+  
+![gameshot01](/assets/gameshot_01.png)
+![gameshot01](/assets/gameshot_02.png) 
+![gameshot01](/assets/gameshot_03.png)
+
