@@ -17,7 +17,7 @@
 ## Projects 
 - [**Vamprye: Twilight Bakery**](https://kanomwan.itch.io/vamprye) : A time-management storytelling game developed using Godot and pixel art.
   
-![gameshot01](/assets/gameshot_01.png)
-![gameshot01](/assets/gameshot_02.png) 
-![gameshot01](/assets/gameshot_03.png)
+![gameshot01](/Assets/gameshot_01.png)
+![gameshot01](/Assets/gameshot_02.png) 
+![gameshot01](/Assets/gameshot_03.png)
 
