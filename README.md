@@ -1,6 +1,6 @@
 # Game Developer Portfolio
 
-#### Technical Skills: Godot, Pygame
+#### Technical Skills: Godot, Pygame, Team management 
 
 ## Education
 - M.S., Game Technology and Gamification | Mahidol University (_Present_)  
@@ -14,7 +14,7 @@
 **Intern @ ANT Robotics** (_August 2021 - January 2022_) 
 - Contributed to the design of automation systems and robotic solutions for the automation department.
 
-## Projects 
+## Game projects 
 - [**Vamprye: Twilight Bakery**](https://kanomwan.itch.io/vamprye) : A time-management storytelling game developed using Godot and pixel art.
   
 ![gameshot01](/Assets/gameshot_01.png)
