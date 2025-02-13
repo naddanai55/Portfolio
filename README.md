@@ -1,5 +1,9 @@
 # Game Developer Portfolio
 
+#### **Contact Information**  
+- **Email:** n.parod@outlook.com  
+- **LinkedIn:** linkedin.com/in/naddanaiparod  
+
 #### Technical Skills: Godot, Pygame, Team management 
 
 ## Education
