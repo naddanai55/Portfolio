@@ -25,3 +25,11 @@
 ![gameshot01](/Assets/gameshot_02.png) 
 ![gameshot01](/Assets/gameshot_03.png)
 
+- **Pygame Projects:** Developed multiple interactive game prototypes and simulations, showcasing skills in Python game development.
+
+![fishtank](/Assets/fish_tank.png)
+![fsm](/Assets/fsm_pic.png) 
+![path](/Assets/path_pic.png)
+
+
+
