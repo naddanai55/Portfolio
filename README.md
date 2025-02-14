@@ -31,5 +31,10 @@
 ![fsm](/Assets/fsm_pic.png) 
 ![path](/Assets/path_pic.png)
 
+- **ID Creator App:** Built an image processing and ID card generation app with a custom Pygame UI and OpenCV for image filtering.
+
+![id_app](/Assets/id_app.png)
+
+
 
 
