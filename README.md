@@ -1,4 +1,4 @@
-# Game Developer Portfolio
+# Game Developer & Game Designer
 
 #### **Contact Information**  
 - **Email:** n.parod@outlook.com  
